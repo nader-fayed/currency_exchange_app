@@ -30,7 +30,7 @@ class CurrencyExchangeApp:
         self.root.geometry(f"{window_width}x{window_height}+{x}+{y}")
         
         # API Configuration
-        self.api_key = '4a9e5a154dadea8468beb73c'
+        self.api_key = 
         self.base_url = 'https://v6.exchangerate-api.com/v6'
         self.flag_api_base = 'https://flagcdn.com/w80'
         
